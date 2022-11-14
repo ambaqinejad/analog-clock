@@ -321,3 +321,9 @@ body {
 .clock .obj59 {
   --rotation: calc(6 * 59deg);
 }
+
+.clock .obj60 {
+    --rotation: calc(6 * 60deg);
+    font-size: 1.3rem;
+    font-weight: bolder;
+}
